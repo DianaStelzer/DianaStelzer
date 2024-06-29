@@ -15,6 +15,7 @@ To install this project, clone the repository to your local machine:
 ```bash
 git clone https://github.com/DianaStelzer/byb_project.git
 cd byb_project
+```
 
 ## Usage
 To run the script, simply execute the following command in your terminal:
